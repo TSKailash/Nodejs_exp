@@ -3,4 +3,4 @@ http: GET /
 http: GET /
 info: Server is running on port 3000
 http: GET /
-http: GET /about
+http: GET /aboutinfo: Server is running on port 3000
